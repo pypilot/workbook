@@ -1,0 +1,1 @@
+If you've read all this, you might start to realize the tremendous effort and dedication that the builder of pypilot has put into it, and continues to put in the maintenance of it. It would be not more than fair to show your appreciation by making a donation to him. Check out https://pypilot.org - contact or directly https://www.paypal.com/donate/?hosted_button_id=N7EJ9T9G8VVJ6.
